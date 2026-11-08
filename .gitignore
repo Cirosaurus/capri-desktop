@@ -4,6 +4,9 @@ out/
 *.log
 .DS_Store
 Thumbs.db
+__pycache__/
+.playwright-mcp/
+intro-preview.mp4
 
 # local debug captures
 captures/
